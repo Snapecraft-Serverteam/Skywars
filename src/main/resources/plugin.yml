@@ -1,0 +1,16 @@
+name: Skywars
+
+description: Skywars Plugin from Snapecraft ServerNetwork
+website: snapecraft.ddns.net
+authors:
+  - Tallerik
+
+database: false
+prefix: "[Skywars]"
+depend:
+  - Vault
+
+version: 1.0.0
+main: net.ddns.snapecraft.SkyWars.Main
+
+commands:
